@@ -1,2 +1,0 @@
-# config_properties
-作为spirngcloud的配置中心
